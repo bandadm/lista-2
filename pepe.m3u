@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJJvtrB/bolivision.jpg" tvg-group="BOLIVIA", BOLIVISION
+https://www.redbolivision.tv.bo/envivo-canal-5/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv2qgyY/btv.jpg" tvg-group="BOLIVIA", BOLIVIA TV
+https://www.boliviatv.bo/principal/vivo71.php
